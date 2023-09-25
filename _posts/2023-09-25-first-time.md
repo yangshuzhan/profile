@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "First edit profile"
-color:  teal
-width:   6 
-height:  1
 date:   2023-09-25
 categories: jekyll update
 excerpt_separator: <!--more-->
