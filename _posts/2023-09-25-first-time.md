@@ -4,6 +4,8 @@ date: "2023-9-25 22:26:00 +0200"
 author: Shuzhan
 category: blog 
 ---
+{: .note .info}
+Currently I am using `Unity 2019.4.10`, So this can be applicable for future versions and maybe some older ones too. 
 
 This is the first day editing the blog, because I'm looking for Phds and I send a couple of emails recently. Few of them get responses unfortunately, and I realized the reason may be I don't showcase enough although I did many things actually. Maybe it's time to organize those work and record them.
 
