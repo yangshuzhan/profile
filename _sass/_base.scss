@@ -46,7 +46,7 @@ body{
 
 a{
     color: #069ec2;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover{
         color: $brand-color;
