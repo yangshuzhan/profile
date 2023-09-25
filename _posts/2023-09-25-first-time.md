@@ -1,8 +1,12 @@
 ---
-title: "First Time Edit Profile"
-date: "2023-9-25"
-author: Shuzhan
-category: blog 
+layout: post
+title:  "First edit profile"
+color:  teal
+width:   6 
+height:  1
+date:   2023-09-25
+categories: jekyll update
+excerpt_separator: <!--more-->
 ---
 {: .note .info}
 Currently I am using `Unity 2019.4.10`, So this can be applicable for future versions and maybe some older ones too. 
