@@ -1,6 +1,6 @@
 ---
 title: "First Time Edit My Profile"
-date: "2023-9-25 22:09:00 +0200"
+date: "2023-09-25 22:09:00 +0200"
 author: Shuzhan Yang
 category: blog 
 ---
