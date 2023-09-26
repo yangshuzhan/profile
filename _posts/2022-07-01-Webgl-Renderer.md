@@ -11,7 +11,7 @@ So first I started from drawing a simple triangle. This was easy at first, becau
 
 Fortunately, I sucessfully rewrite most of the codes and I was able to write my own shader. The first object with my own shader of course was a Lambertian torus, and I saved a picture of it.
 
-Later on, I achieved many other materials. I write a raytracing algorithm and acceleration structure so there's finally global illumination.
+Later on, I achieved many other materials. I write a raytracing algorithm and a acceleration structure so there's finally global illumination.
 
 Here are some pictures showing how I built it from scratch, and finally implemented photon mapping.
 <!--more-->
