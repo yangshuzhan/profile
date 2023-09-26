@@ -23,6 +23,7 @@ img[alt=image] { width: 40%; }
     color: #fefefe;
     z-index: 888;
     font-size: calc(0.75vw + 0.75vh);
+    display:inline-table;
 }
 .sidebar h2{
     line-height:5vh;
