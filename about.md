@@ -6,16 +6,14 @@ redirect_from: /about.html
 ---
 
 ## Hi there 👋
-Introduce your self
-I`m NrdyBhu1
+I`m Shuzhan Yang
 
 # About Me
-Tell more about your self
-I am a passionate game dev 👨🏻‍💻 and i learnt many languages only to make games.
+I'm currently a graduate student looking for Phd. I love computer graphics and especially rendering. In the past, I worked as a 3d designer for product in a sales department. I graduated from Wuhan University with a bachelor's degree and am currently studying at Sichuan Normal University. I am currently conducting research on MCMC, and my supervisor Han Su is involved in AI related research.
 
 Talk about your projects
 # My first project
-My first project was a prototype which was unfinished but still it was a game.
+My first project was a webGL renderer. I implemented ray tracing on the web using Javascript.
 
 Link your social accounts
 # Social Accounts
