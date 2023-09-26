@@ -13,4 +13,4 @@ This is the first day editing my profile, because I'm looking for a Phd and I've
 
 I tried many times but there's some bugs and somehow the blog doesn't show.
 
-<a href="{{ '/ShuzhanYang.pdf' | relative_url }}"><button>Download My CV </button></a> 
+<a href="https://yangshuzhan.github.io/profile/ShuzhanYang.pdf"><button>Download My CV </button></a> 
