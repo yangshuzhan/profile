@@ -7,7 +7,11 @@
 
 .sidebar img{
     width: 15vw;
-    height: auto;;
+    height: auto;
+}
+.sidebar img:hover {
+    opacity:0.5;
+    transition:0.3s;
 }
 
 .site-header{
