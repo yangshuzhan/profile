@@ -72,6 +72,7 @@
         top: 0;
         vertical-align: middle;
         font-size:2vw;
+        z-index:1;
     }
 
     .sidebar h2, .sidebar h3, .sidebar img{
@@ -92,5 +93,6 @@
     .fork{
         position: fixed;
         top: 0px;
+        z-index:1;
     }
 }
