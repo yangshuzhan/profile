@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design a monster"
+title:  "Webgl Renderer"
 date:   2023-07-30
 author: Shuzhan Yang
 excerpt_separator: <!--more-->
