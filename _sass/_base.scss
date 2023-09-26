@@ -32,6 +32,16 @@ img[alt=image] { width: 40%; }
     opacity: 0.5;
     background:#ffe6bb;
 }
+.sidebar h3 {
+    position: fixed;
+    top: 20vh;
+    left: -10vw;
+    font-size: calc(5vw + 5vh);
+    display:inline-table;
+    transform: rotate(60deg);
+    z-index: -1;
+    opacity:0.2;
+}
 
 .social-media ul{
     list-style: none;
