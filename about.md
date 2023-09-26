@@ -11,11 +11,9 @@ I`m Shuzhan Yang
 # About Me
 I'm currently a graduate student looking for Phd. I love computer graphics and especially rendering. In the past, I worked as a 3d designer for product in a sales department. I graduated from Wuhan University with a bachelor's degree and am currently studying at Sichuan Normal University. I am currently conducting research on MCMC, and my supervisor Han Su is involved in AI related research.
 
-Talk about your projects
 # My first project
 My first project was a webGL renderer. I implemented ray tracing on the web using Javascript.
 
-Link your social accounts
 # Social Accounts
 [Itch.io](#) \
 [Patreon](#) \
@@ -31,7 +29,6 @@ Show your github Stats
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,1565C0,b92b27&title_color=fff&text_color=fff">
 </p>
 
-Your showcase here
 # My Showcase
 <p>
     <a href="https://github.com/Jekyll/jekyll"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jekyll&repo=jekyll&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
