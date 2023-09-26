@@ -48,7 +48,7 @@ img[alt=image] { width: 50vw; }
     }
 
     .sidebar img{
-        width: 5vh;
+        width: 10vh;
         height: auto;
         position: fixed;
         left: 0;
@@ -62,11 +62,12 @@ img[alt=image] { width: 50vw; }
     }
 
     .sidebar{
+        padding-top: 0;
         height: 10vh;
         width: 100%;
         position: fixed;
         top: 0;
-        vertical-align: middle;
+        vertical-align: middle
     }
 
     .sidebar h2, .sidebar h3, .sidebar img{
@@ -86,6 +87,6 @@ img[alt=image] { width: 50vw; }
 
     .fork{
         position: fixed;
-        top: 100px;
+        top: 0px;
     }
 }
