@@ -14,24 +14,43 @@ I'm currently a graduate student looking for Phd. I love computer graphics and e
 # My first project
 My first project was a webGL renderer. I implemented ray tracing on the web using Javascript.
 
-# Social Accounts
-[Itch.io](#) \
-[Patreon](#) \
-[Youtube](#) \
-[My Website](#) \
-[Gmail](#) \
-[Github](#)
+# Education
+2013/09 - 2016/06 Wuhan University Bachelor
 
-Show your github Stats
-# Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=NrdyBhu1&show_icons=true&layout=compact&bg_color=30,12c2e9,f64f59&title_color=fff&text_color=fff">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NrdyBhu1&layout=compact&bg_color=30,1565C0,b92b27&title_color=fff&text_color=fff">
-</p>
+GPA 3.1/4.0, Geographic Information Science
 
-# My Showcase
-<p>
-    <a href="https://github.com/Jekyll/jekyll"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jekyll&repo=jekyll&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-    <a href="https://github.com/Jekyll/teams"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jekyll&repo=teams&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
-</p>
+Academic Main Courses: Digital Image Processing, Map Art Design, Computer Graphics and so on.
 
+2021/09 - Now Sichuan Normal university Master
+
+GPA 3.7/4.0, Computer Science.
+
+Academic Main Courses: Management/Marketing/International Trade, Import/Export Business, Foreign Trade English,
+Computer Skill and so on.
+# Careers
+2016/06 - 2017/03 Unistrong Whuhan Co. Ltd Sales Engineer
+
+1、Domestic trade customer service.
+2、Collect the feedback of customers about the products and the market.
+3、Communicate with foreign customers of the product/order/inquiry via email and telephone.
+
+2018/07 - 2019/03 Chinasoft International Co. Ltd 3D Designer
+
+1、Design videos and pictures of Huawei product.
+2、Support for Webgl modules.
+
+# Research Experience
+
+2021/09 - Now Webgl interactive rendering Research1
+
+Webgl interactive rendering using Javascript.
+
+Published a paper - Fast geometric Sampling for Phong-like reflection - in Computer Graphics International(CGI'23) as
+the first author.
+
+Addressed the issue for sampling latency in raytracing.
+
+2022/03 - Now Markov Monte Carlo Raytracing Research2
+
+Raytracing and Markov Monte Carlo.
+Started on the web then moved to PBRT V3.
