@@ -1,2 +1,8 @@
-
+---
+layout: post
+title:  "Design a monster"
+date:   2023-07-30
+author: Shuzhan Yang
+excerpt_separator: <!--more-->
+---
 I fixed a bug in the GLSL codes, which caused inaccurate refraction.
