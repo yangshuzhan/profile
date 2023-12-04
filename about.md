@@ -6,7 +6,8 @@ redirect_from: /about.html
 ---
 
 ## Hi there 👋
-I`m Shuzhan Yang
+I`m Shuzhan Yang 
+<a href="https://yangshuzhan.github.io/profile/ShuzhanYang.pdf"><button>Download My CV </button></a> 
 
 # About Me
 I'm currently a graduate student looking for Phd. I love computer graphics and especially rendering. In the past, I worked as a 3d designer for product in a sales department. I graduated from Wuhan University with a bachelor's degree and am currently studying at Sichuan Normal University. I am currently conducting research on MCMC, and my supervisor Han Su is involved in AI related research.
